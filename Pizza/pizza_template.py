@@ -9,9 +9,9 @@ The whole app is a composition of functions.
 
 No GLOBAL variables and button functionality managed by use of lambda functions.
 
-Student Name: Pritisha Dawadi
+Student Name: Najni Khatoon
 
-Student ID: w2148849
+Student ID: w2152992
 '''
 
 # Import required libraries
