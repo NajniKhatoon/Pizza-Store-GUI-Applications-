@@ -6,8 +6,8 @@ A Python desktop application built with **Tkinter** that allows users to browse 
 
 ## 👤 Author
 
-- **Student Name:** Pritisha Dawadi  
-- **Student ID:** w2148849
+- Student Name: Najni Khatoon  
+- Student ID:** w2152992
 
 ---
 
